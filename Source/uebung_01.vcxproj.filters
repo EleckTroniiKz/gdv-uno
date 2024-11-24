@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\openglview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\trianglemesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="globals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\openglview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\trianglemesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Can\Documents\GDV\Test\build\CMakeFiles\8f5c89dcb85a3e174e65d565e4a0fdf4\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\mainwindow.ui" />
+    <None Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\autouic_Debug.stamp" />
+    <None Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\autouic_Release.stamp" />
+    <None Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="C:\Users\Can\Documents\GDV\Test\build\uebung_01_autogen\autouic_RelWithDebInfo.stamp" />
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\83ford-gt90.lsa">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\83ford-gt90.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\ballon.lsa">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\ballon.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\brach.lsa">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\brach.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\delphin.lsa">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\delphin.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\Modelle\sphere.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\AppData\Local\Temp\Rar$DRa20704.33578\head.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\mushroom.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\pear.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\r2.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\seashell.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\space_shuttle.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\space_station.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\Sword01.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\teapot.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\volks.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\x29_plane.off">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\Apple.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\asu.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\dragon.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\goblet.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\head.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\heart.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\helm.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\house.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\king.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\New folder\klingon.off">
+      <Filter>Source Files\Modelle</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E58348EE-B1FF-3446-9743-F6818E4BFFF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6CD11FE7-0ADC-3B9F-92C7-E071EDF86083}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A105EAEB-01AA-389A-BFA1-74B9A6A4FEED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Modelle">
+      <UniqueIdentifier>{41017627-bf49-463a-b15e-31c265a20e07}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

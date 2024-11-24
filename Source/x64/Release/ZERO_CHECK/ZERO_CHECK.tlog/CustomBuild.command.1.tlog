@@ -1,0 +1,10 @@
+^C:\USERS\CAN\DOCUMENTS\GDV\TEST\BUILD\CMAKEFILES\31789DB51C5B5FE624E6E4D5DA8E2C6A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Can/Documents/Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window -BC:/Users/Can/Documents/GDV/Test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Can/Documents/GDV/Test/build/uebung_01.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

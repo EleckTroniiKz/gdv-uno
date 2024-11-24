@@ -1,0 +1,7 @@
+﻿  Automatic MOC and UIC for target uebung_01
+  mainwindow.cpp
+  openglview.cpp
+C:\Users\Can\Documents\Framework_OpenGL_OFF_LSA_Qt6_Legacy_Window\openglview.cpp(182,52): warning C4267: "+=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  mocs_compilation_Release.cpp
+  Code wird generiert...
+  uebung_01.vcxproj -> C:\Users\Can\Documents\GDV\Test\build\Release\uebung_01.exe

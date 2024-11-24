@@ -1,0 +1,3 @@
+C:/Users/Can/Documents/GDV/Test/build/CMakeFiles/uebung_01.dir
+C:/Users/Can/Documents/GDV/Test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Can/Documents/GDV/Test/build/CMakeFiles/ZERO_CHECK.dir
